@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alzaros, I'm 22.
+- 👋 Hi, I’m @Alzaros, I'm 23.
 - 👀 I’m interested in IoT, Programming, Network and Telecommunication.
-- 🌱 I’m currently in third year of Bachelor Administration and Security of Network
+- 🌱 I’m currently in first year of Cybersecurity Master.
 - 📫 How to reach me : on Twitter @Alzaros2
